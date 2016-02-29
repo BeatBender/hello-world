@@ -1,4 +1,4 @@
 # hello-world
-lol
-bonjour
-j'ai ajouté "bonjour"
+lol;
+bonjour;
+j'ai ajouté "bonjour";
